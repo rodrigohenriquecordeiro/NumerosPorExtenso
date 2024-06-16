@@ -1,5 +1,5 @@
 # Números por Extenso
-Objetivo desse exercício foi práticar lógica de programação para gerar qualquer número por extenso até 999 sem utilizar uma Estrutura de Dados.
+Objetivo desse desafio foi práticar lógica de programação para gerar qualquer número por extenso até 999 sem utilizar uma Estrutura de Dados.
 
 
 
